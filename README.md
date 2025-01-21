@@ -1,2 +1,2 @@
-# DataEngWork
-Projects done to explore data engineering
+# MiniDataScienceProj
+Exploratory project to get familiar with manipulating data
